@@ -1,7 +1,7 @@
-There is no need to modify the contents of this file.
-All you have to do is submit it as is, following the 
-Project 0 guidelines in your course website.
+このファイルの内容を修正する必要はありません。
+コースのウェブサイトにあるプロジェクト0のガイドラインに従って、そのまま提出してください。
+コースのウェブサイトにあるプロジェクト0のガイドラインに従ってください。
 
-It is possible that the Nand to Tetris course that
-you are taking does not require a project 0 submission.
-That's OK.
+あなたが受講しているNand to Tetrisコースでは、プロジェクト0の提出が必要ない可能性があります。
+プロジェクト0の提出は必要ありません。
+それでも構いません。

@@ -1,4 +1,4 @@
 *.tst
-*.comp
+*.cmp
 *.out
 .DS_Store
